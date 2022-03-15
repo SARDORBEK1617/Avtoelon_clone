@@ -13,7 +13,7 @@ class Model {
     this.about,
   );
 
-  static List<Model> nomi = [
+  static List<Model> name = [
     Model(
       "Daewoo Gentra",
       "images/gentra.jpg",

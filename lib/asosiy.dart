@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:lesson_3_task_2/recipe/models.dart';
 import 'package:lesson_3_task_2/secondpage.dart';
 
-Widget Nextpage(BuildContext context, Model models) {
+Widget Body(BuildContext context, Model models) {
   return InkWell(
     onTap: () {
       Navigator.push(

@@ -37,9 +37,9 @@ class _FirstpageState extends State<Firstpage> {
         ],
       ),
       body: ListView.builder(
-        itemCount: Model.nomi.length,
+        itemCount: Model.name.length,
         itemBuilder: (BuildContext context, int index) {
-          return asosiy(context, Model.nomi[index]);
+          return Body(context, Model.name[index]);
         },
       ),
     );
