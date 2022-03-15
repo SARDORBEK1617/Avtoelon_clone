@@ -15,8 +15,6 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-auth screen: 
-
 <p align="left">
   <img src="images/ui_clone_images/avtoelon.png" alt="SR GUI Opening window"
        width="300">
